@@ -1,0 +1,20 @@
+# Entorno virtual
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDEs
+.idea/
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Datasets excluidos
+MIA_26_27/NOTEBOOKS DEL AULA/datasets/calidad-del-aire-datos-historicos-diarios.csv
